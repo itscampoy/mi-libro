@@ -1,1 +1,4 @@
-# Índice/n/n- Capitulo 1: Introduccion/n
+# Indice
+
+- Capitulo 1: introdiccionm
+- Capitulo 2: estructura borrador
