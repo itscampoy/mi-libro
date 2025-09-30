@@ -1,4 +1,4 @@
 # Indice
 
-- Capitulo 1: introdiccionm
-- Capitulo 2: estructura borrador
+- Capitulo 1: introduccion
+- Capitulo 2: estructura
