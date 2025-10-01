@@ -1,8 +1,5 @@
 # Capitulo 2: Estructura
 
-Defini9mos la estructura del libro.
-<<<<<<< Updated upstream
-=======
+Definimos la estructura del libro.
 añadimos cosas
 Borrador de ideas
->>>>>>> Stashed changes
